@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 ### Stats
 
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nef3libata&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nef3libata&layout=compact&theme=radical)](https://github.com/nef3libata/github-readme-stats) |
+| ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nef3libata&&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nef3libata&layout=compact&theme=radical)](https://github.com/nef3libata/github-readme-stats) |
 | :---: | :---: |
 <!--
 - 🔭 I’m currently working on ...
