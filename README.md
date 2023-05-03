@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 ### About Me
-- 👩‍💻 I'm a CS student at Ferdowsi University of Mashhad
+- 👩‍💻 A CS student at Ferdowsi University of Mashhad
 - 🎓 Eager to collaborate on education-related websites and build tools that help people
-- 🌱 I'm currently learning JavaScript and React
+- 🌱 Currently learning JavaScript and React
 
 --- 
 
