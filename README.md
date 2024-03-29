@@ -10,8 +10,6 @@ Here are some ideas to get you started:
 - 🎓 Eager to collaborate on education-related websites and build tools that help people
 - 🌱 Currently learning JavaScript and React
 
---- 
-
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
